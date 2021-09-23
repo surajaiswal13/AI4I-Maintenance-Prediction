@@ -1,0 +1,213 @@
+2021-09-22 23:32:06,200:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-22 23:32:06,203:prediction_models:INFO:Linear Model Loaded:
+2021-09-22 23:32:18,481:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-22 23:32:18,483:prediction_models:INFO:Linear Model Loaded:
+2021-09-22 23:32:25,593:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-22 23:32:25,596:prediction_models:INFO:Linear Model Loaded:
+2021-09-22 23:32:41,120:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-22 23:32:41,122:prediction_models:INFO:Lasso Model Loaded:
+2021-09-23 11:07:24,744:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:07:24,744:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:07:25,235:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:07:25,235:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:07:25,319:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:07:25,319:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:07:25,321:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:07:25,321:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:07:36,927:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:07:36,927:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:07:36,929:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:07:36,929:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:07:46,540:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:07:46,540:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:07:46,542:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:07:46,542:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:07:54,825:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:07:54,825:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:07:54,828:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:07:54,828:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:08:56,601:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:08:56,601:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:08:56,601:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:10:25,847:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:10:25,847:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:10:25,847:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:10:25,847:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:13:15,457:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:13:15,457:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:13:15,457:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:13:15,457:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:13:15,457:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:14:13,348:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:14:13,348:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:14:13,348:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:14:13,348:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:14:13,348:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:14:13,348:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:14:57,975:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:14:57,975:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:14:57,975:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:14:57,975:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:14:57,975:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:14:57,975:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:14:57,975:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:15:54,789:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:15:54,789:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:15:54,789:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:15:54,789:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:15:54,789:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:15:54,789:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:15:54,789:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:15:54,793:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:15:54,793:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:15:54,793:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:15:54,793:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:15:54,793:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:15:54,793:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:15:54,793:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:16:04,045:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:04,045:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:04,045:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:04,045:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:04,045:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:04,045:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:04,045:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:04,049:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:16:04,049:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:16:04,049:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:16:04,049:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:16:04,049:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:16:04,049:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:16:04,049:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:16:10,390:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:10,390:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:10,390:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:10,390:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:10,390:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:10,390:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:10,390:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:10,398:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:16:10,398:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:16:10,398:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:16:10,398:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:16:10,398:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:16:10,398:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:16:10,398:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:16:17,278:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:17,278:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:17,278:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:17,278:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:17,278:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:17,278:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:17,278:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:17,282:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:16:17,282:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:16:17,282:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:16:17,282:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:16:17,282:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:16:17,282:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:16:17,282:prediction_models:INFO:Linear Model Loaded:
+2021-09-23 11:16:25,991:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:25,991:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:25,991:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:25,991:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:25,991:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:25,991:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:25,991:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:25,993:prediction_models:INFO:Lasso Model Loaded:
+2021-09-23 11:16:25,993:prediction_models:INFO:Lasso Model Loaded:
+2021-09-23 11:16:25,993:prediction_models:INFO:Lasso Model Loaded:
+2021-09-23 11:16:25,993:prediction_models:INFO:Lasso Model Loaded:
+2021-09-23 11:16:25,993:prediction_models:INFO:Lasso Model Loaded:
+2021-09-23 11:16:25,993:prediction_models:INFO:Lasso Model Loaded:
+2021-09-23 11:16:25,993:prediction_models:INFO:Lasso Model Loaded:
+2021-09-23 11:16:42,456:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:42,456:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:42,456:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:42,456:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:42,456:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:42,456:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:42,456:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:42,461:prediction_models:INFO:Lasso Model Loaded:
+2021-09-23 11:16:42,461:prediction_models:INFO:Lasso Model Loaded:
+2021-09-23 11:16:42,461:prediction_models:INFO:Lasso Model Loaded:
+2021-09-23 11:16:42,461:prediction_models:INFO:Lasso Model Loaded:
+2021-09-23 11:16:42,461:prediction_models:INFO:Lasso Model Loaded:
+2021-09-23 11:16:42,461:prediction_models:INFO:Lasso Model Loaded:
+2021-09-23 11:16:42,461:prediction_models:INFO:Lasso Model Loaded:
+2021-09-23 11:16:50,922:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:50,922:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:50,922:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:50,922:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:50,922:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:50,922:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:50,922:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:16:50,924:prediction_models:INFO:Ridge Model Loaded:
+2021-09-23 11:16:50,924:prediction_models:INFO:Ridge Model Loaded:
+2021-09-23 11:16:50,924:prediction_models:INFO:Ridge Model Loaded:
+2021-09-23 11:16:50,924:prediction_models:INFO:Ridge Model Loaded:
+2021-09-23 11:16:50,924:prediction_models:INFO:Ridge Model Loaded:
+2021-09-23 11:16:50,924:prediction_models:INFO:Ridge Model Loaded:
+2021-09-23 11:16:50,924:prediction_models:INFO:Ridge Model Loaded:
+2021-09-23 11:17:03,947:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:17:03,947:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:17:03,947:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:17:03,947:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:17:03,947:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:17:03,947:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:17:03,947:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:17:03,948:prediction_models:INFO:Ridge Model Loaded:
+2021-09-23 11:17:03,948:prediction_models:INFO:Ridge Model Loaded:
+2021-09-23 11:17:03,948:prediction_models:INFO:Ridge Model Loaded:
+2021-09-23 11:17:03,948:prediction_models:INFO:Ridge Model Loaded:
+2021-09-23 11:17:03,948:prediction_models:INFO:Ridge Model Loaded:
+2021-09-23 11:17:03,948:prediction_models:INFO:Ridge Model Loaded:
+2021-09-23 11:17:03,948:prediction_models:INFO:Ridge Model Loaded:
+2021-09-23 11:17:32,898:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:17:32,898:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:17:32,898:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:17:32,898:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:17:32,898:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:17:32,898:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:17:32,898:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:17:32,898:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:17:32,903:prediction_models:INFO:ElasticNet Model Loaded:
+2021-09-23 11:17:32,903:prediction_models:INFO:ElasticNet Model Loaded:
+2021-09-23 11:17:32,903:prediction_models:INFO:ElasticNet Model Loaded:
+2021-09-23 11:17:32,903:prediction_models:INFO:ElasticNet Model Loaded:
+2021-09-23 11:17:32,903:prediction_models:INFO:ElasticNet Model Loaded:
+2021-09-23 11:17:32,903:prediction_models:INFO:ElasticNet Model Loaded:
+2021-09-23 11:17:32,903:prediction_models:INFO:ElasticNet Model Loaded:
+2021-09-23 11:17:32,903:prediction_models:INFO:ElasticNet Model Loaded:
+2021-09-23 11:17:38,855:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:17:38,855:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:17:38,855:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:17:38,855:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:17:38,855:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:17:38,855:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:17:38,855:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:17:38,855:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:17:38,858:prediction_models:INFO:Ridge Model Loaded:
+2021-09-23 11:17:38,858:prediction_models:INFO:Ridge Model Loaded:
+2021-09-23 11:17:38,858:prediction_models:INFO:Ridge Model Loaded:
+2021-09-23 11:17:38,858:prediction_models:INFO:Ridge Model Loaded:
+2021-09-23 11:17:38,858:prediction_models:INFO:Ridge Model Loaded:
+2021-09-23 11:17:38,858:prediction_models:INFO:Ridge Model Loaded:
+2021-09-23 11:17:38,858:prediction_models:INFO:Ridge Model Loaded:
+2021-09-23 11:17:38,858:prediction_models:INFO:Ridge Model Loaded:
+2021-09-23 11:17:43,104:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:17:43,104:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:17:43,104:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:17:43,104:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:17:43,104:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:17:43,104:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:17:43,104:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:17:43,104:prediction_models:INFO:Data Tranformed into Standard Scalar:
+2021-09-23 11:17:43,106:prediction_models:INFO:ElasticNet Model Loaded:
+2021-09-23 11:17:43,106:prediction_models:INFO:ElasticNet Model Loaded:
+2021-09-23 11:17:43,106:prediction_models:INFO:ElasticNet Model Loaded:
+2021-09-23 11:17:43,106:prediction_models:INFO:ElasticNet Model Loaded:
+2021-09-23 11:17:43,106:prediction_models:INFO:ElasticNet Model Loaded:
+2021-09-23 11:17:43,106:prediction_models:INFO:ElasticNet Model Loaded:
+2021-09-23 11:17:43,106:prediction_models:INFO:ElasticNet Model Loaded:
+2021-09-23 11:17:43,106:prediction_models:INFO:ElasticNet Model Loaded:
